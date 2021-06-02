@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cf0ba35-240b-4d2a-828d-595be3c6b992" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\Selorm\.android\avd\Pixel_3_API_30.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r0nLP9LniW10lmn8RfcqOQ3Tmv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/asset" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Selorm\AndroidStudioProjects\tvapp\android\app\src\main\res\drawable" />
+      <recent name="C:\Users\Selorm\AndroidStudioProjects\tvapp\asset" />
+      <recent name="C:\Users\Selorm\AndroidStudioProjects\tvapp\asset\movieposters" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cf0ba35-240b-4d2a-828d-595be3c6b992" name="Default Changelist" comment="" />
+      <created>1618121817342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618121817342</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="242" key="#Dart" timestamp="1622248259741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="437" y="242" key="#Dart/0.0.1280.680@0.0.1280.680" timestamp="1622248259741" />
+    <state x="233" y="0" key="#Plugins" timestamp="1620748096866">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1620748096866" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621628400975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1621628400975" />
+    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1620747179748">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1620747179748" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1621000232480">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1621000232480" />
+    <state x="453" y="87" key="AndroidProcessChooserDialog" timestamp="1621628433704">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="453" y="87" key="AndroidProcessChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1621628433704" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1622081844648">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1622081844648" />
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom" timestamp="1622413680191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1622413680191" />
+    <state width="1237" height="150" key="GridCell.Tab.0.center" timestamp="1622413680191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1622413680191" />
+    <state width="1237" height="150" key="GridCell.Tab.0.left" timestamp="1622413680191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1622413680191" />
+    <state width="1237" height="150" key="GridCell.Tab.0.right" timestamp="1622413680191">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="150" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1622413680191" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1622059964471">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1622059964471" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621108362127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1621108362127" />
+    <state x="691" y="0" width="589" height="680" key="find.popup" timestamp="1619147159985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="691" y="0" width="589" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1619147159985" />
+    <state x="298" y="151" key="run.anything.popup" timestamp="1621628535137">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1621628535137" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1621207290049">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1621207290049" />
+  </component>
+</project>
